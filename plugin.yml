@@ -1,0 +1,8 @@
+name: BossPlugin
+main: com.bossplugin.BossPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  boss:
+    description: Boss spawn komutu
+    usage: /boss spawn <tip>
